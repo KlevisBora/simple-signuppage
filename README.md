@@ -22,5 +22,5 @@ The project demonstrates form handling, event listeners, and user feedback throu
 3. Compile and run `SignUpPage.java`.
 4. Fill in the form and click **"Regjistro"** to see the result.
 
-##  Project Structure
+
 
